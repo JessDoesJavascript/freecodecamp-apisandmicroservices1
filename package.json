@@ -4,6 +4,7 @@
 	"description": "Website created for FreeCodeCamp APIs and Microservices course.",
 	"keywords": ["freecodecamp", "tutorial", "APIs", "microservices", "course"],
 	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
