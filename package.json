@@ -3,6 +3,7 @@
 	"author": "Jess C",
 	"description": "Website created for FreeCodeCamp APIs and Microservices course.",
 	"keywords": ["freecodecamp", "tutorial", "APIs", "microservices", "course"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
